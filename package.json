@@ -1,0 +1,25 @@
+{
+  "name": "node-openvz-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/binRick/node-openvz-templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/node-openvz-templates/issues"
+  },
+  "homepage": "https://github.com/binRick/node-openvz-templates#readme",
+  "dependencies": {
+    "get-urls": "^7.0.0",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3",
+    "unfluff": "^1.1.0"
+  }
+}
